@@ -1,0 +1,23 @@
+
+MainLayout
+  Header
+    APIPlaygroundLayout
+      Sider
+      MainContent
+        PathURLAndButtonComponent
+          Method
+          Url
+          ButtonSubmit
+        HTTPVariableComponent
+          RequestBody
+          PathParameters
+          QueryVariables
+          RequestHeaders
+          RequestCookies
+          ResponseBody
+          ResponseHeaders
+        TableComponent
+    RecordingLayout
+    PlaylistLayout
+
+
